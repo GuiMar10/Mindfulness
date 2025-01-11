@@ -28,3 +28,7 @@ Install uBlock Origin for Adblock
 Download this repository and put it inside your chrome folder
 
 **You're now ready to go =P**
+
+### Screenshots
+![image](https://github.com/user-attachments/assets/6bafd85b-013d-499c-9a37-11a5ad02bba7)
+
