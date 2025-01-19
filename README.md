@@ -25,7 +25,7 @@ Firefox Labs > Picture-in-Picture: Auto-open on tab switch
 Keyboard Shortcuts > Toggle Compact Mode: Ctrl+S
 Install uBlock Origin for Adblock
 
-### Userchome
+### Userchome (Important)
 Download this repository and put it inside your chrome folder
 
 **You're now ready to go =P**
