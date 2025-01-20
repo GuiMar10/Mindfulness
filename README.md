@@ -1,7 +1,8 @@
 # Mindfulness
 Make Zen look like Arc (for Windows users, not tested in Mac)
 
-![image](https://github.com/user-attachments/assets/5b192ba1-e165-4553-8762-dd35713866bb)
+![image](https://github.com/user-attachments/assets/efd782df-9518-4ae7-9a30-105ced774b42)
+
 
 
 ### Features:
