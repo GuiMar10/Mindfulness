@@ -17,6 +17,7 @@ Appearance:
 Look and Feel > Single toolbar
 Look and Feel > Move the New Tab button to the top
 Right click on sidebar > Customize Toolbar - Drag the elements to make it look like the image
+Toggle zen.theme.essentials-favicon-bg in about:config
 
 Functionality:
 
