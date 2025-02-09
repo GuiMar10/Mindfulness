@@ -82,4 +82,6 @@
     > .tab-content[titlechanged]:not([selected="true"]) {
     background-image: none !important;
   }
+  --border-radius-medium: 10px !important;
+  --tab-border-radius: 10px !important;
 }
