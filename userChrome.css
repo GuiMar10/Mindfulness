@@ -62,11 +62,6 @@
   opacity: 0.7 !important;
 }
 
-/* Removes borders */
-#urlbar-background {
-  border: 0 !important;
-}
-
 /* Hide attention icon (green dot) under tab icons - Reddit:  https://www.reddit.com/r/zen_browser/comments/1i1c4mt */
 #navigator-toolbox {
   .tabbrowser-tab:is([image], [pinned])
