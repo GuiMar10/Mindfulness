@@ -1,9 +1,7 @@
 # Mindfulness
 Make Zen look like Arc (for Windows users, not tested in Mac)
 
-![image](https://github.com/user-attachments/assets/efd782df-9518-4ae7-9a30-105ced774b42)
-
-
+![image](https://github.com/user-attachments/assets/c9f833f9-5856-4b46-bb3e-cc9a580411a3)
 
 ### Features:
 - [x] MacOS fonts and icons (used by Arc on Mac)
@@ -39,6 +37,8 @@ Download this repository and put it inside your chrome folder
 **You're now ready to go =P**
 
 ### Screenshots
+
+![image](https://github.com/user-attachments/assets/efd782df-9518-4ae7-9a30-105ced774b42)
 ![image](https://github.com/user-attachments/assets/6bafd85b-013d-499c-9a37-11a5ad02bba7)
 ![image](https://github.com/user-attachments/assets/d3cdbcf5-640b-43c0-a81b-ef1f03e2816c)
 
